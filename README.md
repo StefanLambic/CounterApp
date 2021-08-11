@@ -1,0 +1,4 @@
+- The name of this project is CounterApp.
+- The project is made using JavaScript programming language. Besides JavaScript, i used HTML (for structure) and CSS (for styling).
+- Have you ever wondered how many times could you mouse click under 1 minute? Well, now you can find out. There is also a possibility to reset (which brings everything to initial value = 0) and start over again or if you prefer to use negative numbers (-1,-2...)/ subtract it's also possible.
+- With this project i have sharpen up my understanding of DOM (The Document Object Model).
